@@ -17,7 +17,7 @@ Projeyi cloneladıktan sonra Visual Studo Code programında açınız.
 Linux için:
 
 ``` 
-cd kodluyorzilkrepo
+cd kodluyoruzilkrepo
 code
 ```
 
